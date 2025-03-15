@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My Name Is Rizki Hamdani
+## Whatever happens, it's definitely okay with Nasi Goreng
 <!--
 **RizkiHamdanii/RizkiHamdanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
